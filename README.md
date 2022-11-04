@@ -55,21 +55,10 @@ Setelah dilakukan Labeling, kemudian Pemodelan dilakukan dengan menggunakan bebe
 Prediction dilakukan menggunakan metode machine learning yang dipakai pada pemodelan untuk melihat hasil prediksi sentimen tiap tweet berdasarkan tiap metode machine learning.
 ### 4.6. Visualization
 Dilakukan visualisasi untuk melihat dalam bentuk pie chart jumlah prediksi tiap kategori sentimen (netral, positif, negatif) pada tiap metode machine learning yang dipakai.
-<img src="assets/dtc.png"
-     alt="Decision Tree Classifier"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:20%" />
 
-<img src="assets/lrc.png"
-     alt="Logistic Regression Classifier"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:20%" />
-     
-<img src="assets/rfc.png"
-     alt="Random Forest Classifier"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:20%" />
-     
-<img src="assets/svm.png"
-     alt="Support Vector Machine Classifier"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:20%" />
+<img src="assets/visualization.jpg"
+     alt="Visualization"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%" />
 
 ## 5. Kesimpulan
 Dari penelitian yang dilakukan, dapat disimpulkan hasil dari keempat metode machine learning yang digunakan menampilkan sentimen netral lebih dominan (45,5 – 57,3 %) disusul positif (29,3 – 33,0 %) dan negatif (12,8 – 21,5 %), dengan metric accuracy keempat metode berkisar antara 0,5357142857142857 – 0.5928571428571429.
