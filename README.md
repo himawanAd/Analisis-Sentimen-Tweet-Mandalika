@@ -1,5 +1,7 @@
 # Analisis Sentimen Tweet Mandalika
 
+[![](https://img.shields.io/badge/Notebook-here-orange?style=flat&logo=Jupyter)](./Project_NLP.ipynb)
+
 Project Natural Language Processing: **Analisis Sentimen Komentar Masyarakat terhadap Sirkuit Mandalika pada Media Sosial Twitter**
      
 Abstrak - Sirkuit Mandalika ramai diperbincangkan di dunia maya khususnya media sosial Twitter. Semua pengguna bebas berpendapat atau berkomentar tentang sirkuit Mandalika terutama ketika masa pembangunannya dimana dibangun ketika masa pandemi Covid-19 sampai ketika sirkuit Mandalika digunakan pada ajang balapan MotoGP tahun 2022 sehingga memunculkan banyak pengguna yang berkomentar. Sebagian diantaranya menujukkan komentar yang positif atau mendukung adanya sirkuit Mandalika, namun tidak sedikit pula yang memberikan opini negatif. Twitter menjadi media sosial yang populer digunakan sebagai alat untuk memberikan komentar-komentar atau opini pada suatu topik perbincangan yang hangat. Penelitian ini menggunakan 3000 dataset tweet yang menyinggung sirkuit Mandalika dengan kata kunci “Mandalika” dan berbahasa Indonesia. Dalam proses klasifikasinya membandingkan beberapa metode untuk dibandingkan seperti _Decision Tree Classifier, Logistic Regression, Random Forest Classifier, dan Support Vector Machine_.
