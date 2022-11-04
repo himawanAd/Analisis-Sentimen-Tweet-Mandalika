@@ -23,7 +23,9 @@ Abstrak - Sirkuit Mandalika ramai diperbincangkan di dunia maya khususnya media 
 
 ## 1. Latar Belakang
 Sirkuit Mandalika dibangun pada 15 Juni 2020 – 15 Agustus 2021 sebagai salah satu perhelatan MotoGP di daerah wisata Kawasan Ekonomi Khusus (KEK) Mandalika dengan panjang lintasan 4,31 kilometer [1]. Sejak rencana dibangunnya Sirkuit Mandalika hingga sukses digelarnya MotoGP di Mandalika, banyak mengundang opini atau komentar masyarakat terutama pada media sosial Twitter.
+
 Media sosial Twitter sekarang ini menjadi perangkat komunikasi yang sangat populer. Statistik menyebutkan Twitter memiliki sebanyak 206 juta pengguna per 2021 dengan 10,65 juta diantaranya merupakan pengguna berkewarganegaraan Indonesia [2]. Twitter menjadi wadah penyampaian opini masyarakat baik dalam bentuk saran, kritik, ataupun pendapat. Oleh karena itu, Twitter dapat menjadi sumber informasi yang tepat untuk menggali opini masyarakat melalui tweet-tweet yang dilontarkan terhadap suatu peristiwa dengan topik tertentu [3].
+
 Analisis sentimen merupakan proses memahami, mengekstrak dan mengolah data tekstual secara otomatis untuk mendapatkan informasi sentimen yang terkandung dalam suatu kalimat opini. Besarnya pengaruh dan manfaat dari analisis sentimen menyebabkan penelitian dan aplikasi berbasis analisis sentimen berkembang pesat [4]. Pada penelitian ini, analisis sentimen dilakukan untuk mengetahui komentar masyarakat yang menyinggung Sirkuit Mandalika. Sentimen yang ditunjukkan berupa kategori sentimen positif, netral, dan negatif. Besarnya sentimen yang terlihat dapat dijadikan sebuah parameter evaluasi pengadaan atau pembangunan Sirkuit Mandalika.
 
 ## 2. Dataset
@@ -31,11 +33,17 @@ Dataset diambil dengan metode Crawling dari media sosial Twitter. Data yang diam
 
 ## 3. Metode
 Penelitian dilakukan menggunakan bahasa pemrograman Python yang dijalankan pada Google Colaboratory dengan metode penelitian sebagai berikut:
+
 3.1. Crawling Data Twitter 
+
 3.2. Preprocessing Data
+
 3.3. Text Vectorization 
+
 3.4. Labeling dan Pemodelan
+
 3.5. Prediction 
+
 3.6. Visualization 
 
 ## 4. Implementasi dan Hasil Metode
